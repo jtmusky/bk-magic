@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+            "folder_exclude_patterns":
+            [
+                "books",
+                "notes"
+            ],
+            "name": "Admin",
+            "path": "."
+		},
+        {
+            "name": "Books",
+            "path": "books"
+        },
+        {
+            "name": "Misc",
+            "path": "./misc"
+        }
+	]
+}
