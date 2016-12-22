@@ -40,7 +40,7 @@
     \hrulefill\par
     {\huge\raggedright \@title\par}%
     \vskip 1cm
-   % {\Large \@date\par}%
+   {\tiny \@date\par}%
   \end{center}%
   \vfill
   \null
@@ -49,7 +49,7 @@
 \makeatother
 \author{Justin Musgrove}
 \title{\mybookname}
-\date{Rev \today}
+\date{REV: \today}
 
 
 %%% BEGIN DOCUMENT
@@ -57,11 +57,11 @@
 \begin{document}
 \let\cleardoublepage\clearpage
 \maketitle
-\frontmatter
-\null\vfill
-\begin{flushleft}
-\textit{Magic}
-\end{flushleft}
+% \frontmatter
+% \null\vfill
+% \begin{flushleft}
+% \textit{Magic}
+% \end{flushleft}
 \let\cleardoublepage\clearpage
 \mainmatter
 \sloppy
