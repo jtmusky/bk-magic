@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"name": "Admin",
+			"folder_exclude_patterns": ["*"]
+		},
+		{
+			"path": "./Manuscript",
+			"name": "Book"
+		},
+		{
+			"path": "./Support",
+		},
+	],
+	"settings": {
+		"rulers": [ ],
+	}
+}
