@@ -1,3 +1,5 @@
+# WARNING SPOILER ALERT
+
 # Tech Time line
 ## 3000 AD
 - Discovery of non-human artifacts. (Technology many times more powerful)
